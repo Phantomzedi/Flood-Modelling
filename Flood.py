@@ -88,3 +88,5 @@ class Rational_method:
             return self.C_r
         else:
             print("No coefficient has been selected yet.")    
+
+            # Test edit
